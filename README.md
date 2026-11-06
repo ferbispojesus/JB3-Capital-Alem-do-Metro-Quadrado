@@ -16,3 +16,4 @@ A newsletter sai em um e-mail por semana, toda terça-feira, às 7h, com uma cid
 | --- | --- | --- | --- |
 | 000 | Carta de apresentação | | [carta.html](emails/000/carta.html) |
 | 001 | Terça-feira, 03/11/2026 | Florianópolis | [edicao.html](emails/001/edicao.html) |
+| 002 | Terça-feira, 10/11/2026 | Bento Gonçalves | [edicao.html](emails/002/edicao.html) |
