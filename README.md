@@ -18,3 +18,4 @@ A newsletter sai em um e-mail por semana, toda terça-feira, às 7h, com uma cid
 | 001 | Terça-feira, 03/11/2026 | Florianópolis | [edicao.html](emails/001/edicao.html) |
 | 002 | Terça-feira, 10/11/2026 | Bento Gonçalves | [edicao.html](emails/002/edicao.html) |
 | 003 | Terça-feira, 17/11/2026 | São José | [edicao.html](emails/003/edicao.html) |
+| 004 | Terça-feira, 24/11/2026 | Tubarão | [edicao.html](emails/004/edicao.html) |
